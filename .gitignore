@@ -1,0 +1,6 @@
+# .csv 파일 무시
+*.csv
+*.xlsx
+*.pkl
+# .venv 디렉터리 무시
+.venv/
